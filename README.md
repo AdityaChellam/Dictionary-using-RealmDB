@@ -6,7 +6,7 @@ Backend - RealmDB
 
 Functions -
 1. Add new words
-2. Delete words
+2. Deleting words
 3. View synonyms
 4. View antonyms
 5. Search
