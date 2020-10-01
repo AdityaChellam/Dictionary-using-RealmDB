@@ -1,6 +1,6 @@
 # Dictonary-using-RealmDB
 A dictionary with word search, update, and delete feature with RealmDB as backend and Android Studio for UI built for learning use of RealmDB with a practical Project.
-
+//CRUD operations
 Frontend and UI - Android Studio
 Backend - RealmDB
 
